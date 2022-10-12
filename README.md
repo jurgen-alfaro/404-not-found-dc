@@ -1,6 +1,6 @@
 <!-- Please update value in the {}  -->
 
-<h1 align="center">{Your project name}</h1>
+<h1 align="center">404 Not Found Challenge</h1>
 
 <div align="center">
    Solution for a challenge from  <a href="http://devchallenges.io" target="_blank">Devchallenges.io</a>.
@@ -8,11 +8,11 @@
 
 <div align="center">
   <h3>
-    <a href="https://{your-demo-link.your-domain}">
+    <a href="https://jurgen-alfaro.github.io/404-not-found-dc/">
       Demo
     </a>
     <span> | </span>
-    <a href="https://{your-url-to-the-solution}">
+    <a href="https://jurgen-alfaro.github.io/404-not-found-dc/">
       Solution
     </a>
     <span> | </span>
@@ -36,10 +36,10 @@
 
 ## Overview
 
-![screenshot](https://user-images.githubusercontent.com/16707738/92399059-5716eb00-f132-11ea-8b14-bcacdc8ec97b.png)
+![screenshot](./ss_demo.png?raw=true)
 
 - Where can I see your demo?
-  | You can see the demo here:
+  | You can see the demo here: https://jurgen-alfaro.github.io/404-not-found-dc
 - What was your experience?
   | I like trying new things and overcomplicate myself :P
 - What have you learned/improved?
